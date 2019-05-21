@@ -1,4 +1,3 @@
-    
 env: PRD
 service: base
 server.port: 8080
